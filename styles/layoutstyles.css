@@ -1,0 +1,49 @@
+.common{position: absolute;}
+
+.header{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 500px;
+    background-image: url(../images/c5_side_edited.jpg);
+    background-position: 65% 79%;
+}
+
+.subheader{float: left;}
+
+.mainbody{
+    top: 500px;
+    left: 200px;
+    right: 200px;
+    bottom: -5000px;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+.leftmenu{
+    top: 500px;
+    left: 0px;
+    width: 200px;
+    bottom: -4900px;
+    background-color: whitesmoke;
+}
+
+.rightmenu{
+    top: 500px;
+    right: 0px;
+    width: 200px;
+    bottom: -4900px;
+    background-color: whitesmoke;
+}
+
+.footer{
+    bottom: -5000px;
+    left: 0px;
+    right: 0px; 
+    height: 100px;
+    background-color: rgb(153, 153, 153);
+}
+
